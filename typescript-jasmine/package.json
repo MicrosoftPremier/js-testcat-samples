@@ -1,0 +1,30 @@
+{
+  "name": "typescript-jasmine",
+  "version": "1.0.0",
+  "description": "js-testcat sample for TypeScript and jasmine",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "tsc",
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicrosoftPremier/js-testcat-samples.git"
+  },
+  "keywords": [
+    "js-test",
+    "TypeScript",
+    "jasmine"
+  ],
+  "author": "Microsoft Premier Services",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MicrosoftPremier/js-testcat-samples/issues"
+  },
+  "homepage": "https://github.com/MicrosoftPremier/js-testcat-samples#readme",
+  "devDependencies": {
+    "@types/jasmine": "^2.8.7",
+    "jasmine": "^3.1.0",
+    "js-testcat": "^1.1.0"
+  }
+}

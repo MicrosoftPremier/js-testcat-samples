@@ -1,0 +1,29 @@
+{
+  "name": "javascript-mocha",
+  "version": "1.0.0",
+  "description": "js-testcat sample for JavaScript and mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicrosoftPremier/js-testcat-samples.git"
+  },
+  "keywords": [
+    "js-test",
+    "JavaScript",
+    "mocha"
+  ],
+  "author": "Microsoft Premier Services",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MicrosoftPremier/js-testcat-samples/issues"
+  },
+  "homepage": "https://github.com/MicrosoftPremier/js-testcat-samples#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "js-testcat": "^1.1.0",
+    "mocha": "^5.2.0"
+  }
+}
