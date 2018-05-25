@@ -1,2 +1,5 @@
 # Node.JS modules
 node_modules/
+
+# Transpile outputs
+dist/
