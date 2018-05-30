@@ -23,7 +23,7 @@
   "homepage": "https://github.com/MicrosoftPremier/js-testcat-samples#readme",
   "devDependencies": {
     "chai": "^4.1.2",
-    "js-testcat": "^1.1.0",
+    "js-testcat": "^1.3.0",
     "mocha": "^5.2.0"
   }
 }
